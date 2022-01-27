@@ -1,4 +1,4 @@
-.PHONY:out clean
+.PHONY:out clean link static
 CC := gcc
 PRO_DIR :=.
 INC_DIR :=./include/hello.h
